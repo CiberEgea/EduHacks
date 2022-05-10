@@ -64,7 +64,7 @@ session_start();
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="hero-container" data-aos="fade-in">
-      <h1>Wellcome Back <span style="color:black;"><?php echo $username; ?></span></h1>
+      <h1>Welcome Back <span style="color:black;"><?php echo $username; ?></span></h1>
       <p><span class="typed" data-typed-items="Learn, Hack, Test, Practice"></span></p>
     </div>
   </section><!-- End Hero -->
